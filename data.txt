@@ -1,0 +1,3 @@
+in data.txt file you will see the id, password and email that you have saved 
+
+ whenever you want you come here you can see all your id, password and email that you have saved.
